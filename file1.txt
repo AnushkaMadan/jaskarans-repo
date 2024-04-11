@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change created locally
+=======
+File created online
+>>>>>>> d0d089e5be539a4b55f5fb56696dbb6f83ecee66
